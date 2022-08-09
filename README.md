@@ -1,4 +1,4 @@
-### Hi My name Tony , CEO & Founde of C2i technology
+### Hi My name Tony , CEO & Co-Founder of C2i technology
 I have more than 15 years experience in Software development 
 
  I’m currently working on both traddional projects to blockchain projects (include: Dapps and Gamefi)
