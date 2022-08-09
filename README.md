@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**tudnfotech/tudnfotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi My name Tony , CEO & Founde of C2i technology
+I have more than 15 years experience in Software development 
 
  I’m currently working on both traddional projects to blockchain projects (include: Dapps and Gamefi)
 - 🌱 I’m currently learning nestjs and golang to response new outsourcing projects...
