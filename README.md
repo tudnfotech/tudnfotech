@@ -1,5 +1,8 @@
 ### Hi My name Tony , CEO & Co-Founder of C2i technology
 I have more than 15 years experience in Software development 
+I have experience in 
+Buidling the decentralized socialmedia | Web 3 | GameFI ,Defi | Dapps | NFT | Marketplace
+Love talking about #Web3 #business strategy #blockchain #Crypto #AI #Automation #Development life cycle
 
  I’m currently working on both traddional projects to blockchain projects (include: Dapps and Gamefi)
 - 🌱 I’m currently learning nestjs and golang to response new outsourcing projects...
